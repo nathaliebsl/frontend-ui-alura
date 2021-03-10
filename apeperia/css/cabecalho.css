@@ -1,5 +1,6 @@
 .cabecalho {
   color: var(--branco);
+  background-color: var(--bg-chamada-mobile);
 
   width: 100%;
 
@@ -14,7 +15,7 @@
 
   border-bottom: 1px solid var(--borda-cabecalho-mobile);
 
-  position: absolute;
+  /* position: absolute; */
 }
 
 .cabecalho__logo {

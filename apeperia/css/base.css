@@ -23,9 +23,8 @@
 }
 
 body {
-  font-family: "Montserrat", sans-serif;
-  font-family: "Open Sans", sans-serif;
-
+  font-family: var(--montserrat);
+  font-family: var(--opensans);
 }
 
 .container {
